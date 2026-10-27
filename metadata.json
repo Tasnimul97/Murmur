@@ -1,0 +1,6 @@
+{
+  "name": "Murmur - Voice Dictation IME & Companion",
+  "description": "Android voice dictation custom keyboard (IME) and companion app with instant STT, LLM cleanup, custom tones, dictionary, snippets, and privacy-first architecture.",
+  "requestFramePermissions": ["android.permission.RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

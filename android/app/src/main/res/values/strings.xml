@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Murmur</string>
+    <string name="ime_name">Murmur Voice Keyboard</string>
+    <string name="subtype_en">English (Voice)</string>
+    <string name="subtype_bn">Bengali (Voice)</string>
+    <string name="subtype_hi">Hindi (Voice)</string>
+    <string name="permission_mic_rationale">Murmur needs microphone access to transcribe your speech into text. No audio is ever stored on disk or shared with third parties.</string>
+    <string name="secure_field_warning">Voice dictation disabled on password and secure fields.</string>
+</resources>
